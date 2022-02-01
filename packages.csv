@@ -14,8 +14,8 @@ Diffutils;3.8;https://ftp.gnu.org/gnu/diffutils/diffutils-@.tar.xz;6a6b0fdc72acf
 E2fsprogs;1.46.4;https://downloads.sourceforge.net/project/e2fsprogs/e2fsprogs/v@/e2fsprogs-@.tar.gz;128f5b0f0746b28d1e3ca7e263c57094
 Elfutils;0.185;https://sourceware.org/ftp/elfutils/@/elfutils-@.tar.bz2;2b6e94c2eebc1f2194173e31bca9396e
 Eudev;3.2.10;https://dev.gentoo.org/~blueness/eudev/eudev-@.tar.gz;60b135a189523f333cea5f71a3345c8d
-Expat;2.4.1;https://prdownloads.sourceforge.net/expat/expat-@.tar.xz;a4fb91a9441bcaec576d4c4a56fa3aa6
-Expect;5.45.4;https://prdownloads.sourceforge.net/expect/expect@.tar.gz;00fce8de158422f5ccd2666512329bd2
+Expat;2.4.1;https://github.com/libexpat/libexpat/releases/download/R_2_4_1/expat-@.tar.xz;a4fb91a9441bcaec576d4c4a56fa3aa6
+Expect;5.45.4;https://jztkft.dl.sourceforge.net/project/expect/Expect/5.45.4/expect5.45.4.tar.gz;00fce8de158422f5ccd2666512329bd2
 File;5.40;https://astron.com/pub/file/file-@.tar.gz;72540ea1cc8c6e1dee35d6100ec66589
 Findutils;4.8.0;https://ftp.gnu.org/gnu/findutils/findutils-@.tar.xz;eeefe2e6380931a77dfa6d9350b43186
 Flex;2.6.4;https://github.com/westes/flex/releases/download/v@/flex-@.tar.gz;2882e3179748cc9f9c23ec593d6adc8d
@@ -56,7 +56,7 @@ OpenSSL;1.1.1l;https://www.openssl.org/source/openssl-@.tar.gz;ac0d4387f3ba0ad74
 Patch;2.7.6;https://ftp.gnu.org/gnu/patch/patch-@.tar.xz;78ad9937e4caadcba1526ef1853730d5
 Perl;5.34.0;https://www.cpan.org/src/5.0/perl-@.tar.xz;df7ecb0653440b26dc951ad9dbfab517
 Pkg-config;0.29.2;https://pkg-config.freedesktop.org/releases/pkg-config-@.tar.gz;f6e931e319531b736fadc017f470e68a
-Procps;3.3.17;https://sourceforge.net/projects/procps-ng/files/Production/procps-ng-@.tar.xz;d60613e88c2f442ebd462b5a75313d56
+Procps;3.3.17;https://gitlab.com/procps-ng/procps/-/archive/v@/procps-v@.tar.gz;dcd080846c165d3390ce13f486c2b958
 Psmisc;23.4;https://sourceforge.net/projects/psmisc/files/psmisc/psmisc-@.tar.xz;8114cd4489b95308efe2509c3a406bbf
 Python;3.9.6;https://www.python.org/ftp/python/@/Python-@.tar.xz;ecc29a7688f86e550d29dba2ee66cf80
 Python Documentation;3.9.6;https://www.python.org/ftp/python/doc/@/python-@-docs-html.tar.bz2;0dae29e4c38af1b6b1a86b35c9e48923
